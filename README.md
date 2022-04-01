@@ -46,15 +46,7 @@ https://github.com/shadow1ng/fscan
 感谢@j1anFen 师傅的项目对服务端的参考。
 https://github.com/SafeGroceryStore/MDUT
 
-
-https://github.com/knownsec/404StarLink2.0-Galaxy#community
-
-## Stargazers
-
-[![Stargazers over time](https://starchart.cc/SafeGroceryStore/MDUT.svg)](https://starchart.cc/SafeGroceryStore/MDUT.svg)
-
-
-## 最后
+## 最后 
 
 也可以关注我的公众号
 ![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/52184829/161317011-343af6a1-0387-4b6b-9553-cbeebd91e33d.png)
