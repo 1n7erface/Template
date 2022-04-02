@@ -34,6 +34,10 @@ App -c 192 对192连同网段进行扫描,10和172同理
 ```shell
 App -a true 对存活网段进行探测
 ```
+```shell
+将扫描的结果output文件导入java端内
+```
+
 <img width="921" alt="image" src="https://user-images.githubusercontent.com/52184829/161315973-0229f31b-ec32-498c-9617-8e76fdf0bea1.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/52184829/161316094-825ce6f0-a35e-44db-81b6-ea19f2ba0193.png">
 <img width="876" alt="image" src="https://user-images.githubusercontent.com/52184829/161316171-44ce4ae5-5265-46ab-910d-7a7bf8e6d590.png">
