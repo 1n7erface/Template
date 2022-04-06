@@ -5,6 +5,7 @@
 
 ![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-beta0.0.1-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
 
+<h3>碰到任何问题直接提issues,在线等bug直修。</h3>
 
 ## 项目说明
 
