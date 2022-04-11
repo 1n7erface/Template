@@ -60,7 +60,8 @@ https://github.com/SafeGroceryStore/MDUT
 
 ## 最后 
 
-也可以关注我的公众号
+也可以关注公众号
 ![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/52184829/161317011-343af6a1-0387-4b6b-9553-cbeebd91e33d.png)
+![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/52184829/162755521-20c6b842-fe69-4ce0-b122-4d6b0d01007b.png)
 
 
