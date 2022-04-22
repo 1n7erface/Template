@@ -1,4 +1,4 @@
-<h1 align="center">RequestTemplate by 1n7erface</h1>
+<h1 align="center">RequestTemplate</h1>
 
 ## 首款双语双端内网扫描以及验证工具
 快速、准确、全面、利用、检测内网当中存在的漏洞
