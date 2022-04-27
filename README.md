@@ -16,9 +16,6 @@
 
 - 程序当中默认内置弱口令字典,config.json中配置的user和pass的字典针对于信息收集到的复杂密码,放置与扫描端同目录下即可。
 - 如果内网连通网段过于多,不建议使用全网段自探测加扫描,耗费时间过长,如家庭网和政务网。
-- java端的代理配置账号密码存在问题,兼容性会在后续版本完善,目前版本的隧道不能使用认证。
-- 在部分MSSQL复现中,出现TLS版本不兼容情况,是JDK在1.8之后禁用了TLS12协议。修改jdk中/jre/lib/security<img width="549" alt="image" src="https://user-images.githubusercontent.com/52184829/164614925-bf98d74b-383b-4e33-8e84-9c4c6f64d657.png">此三行使用#注释即可
-
 
 ## 使用说明
 
