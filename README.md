@@ -5,7 +5,7 @@
 ## 首款双语双端内网扫描以及验证工具
 快速、准确、全面、利用、检测内网当中存在的漏洞
 
-![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.0.3-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
+![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.0.4-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
 
 ## 项目说明
 
