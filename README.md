@@ -5,7 +5,7 @@
 ## 首款双语双端内网扫描以及验证工具
 快速、准确、全面、利用、检测内网当中存在的漏洞
 
-![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.0.5-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
+![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.0.6-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
 
 ## 项目说明
 
@@ -15,7 +15,7 @@
 - 4.漏洞验证:   使用Java端配置代理对扫描结果进行复现验证截图
 
 ## 使用必读
-
+- 对于192/16/8,10/16/8,172/16/8的扫描，一定使用-c 192,-c 10,-c 172 对其连通性进行检测然后扫描。
 - 程序当中默认内置弱口令字典,config.json中配置的user和pass的字典针对于信息收集到的复杂密码,放置与扫描端同目录下即可。
 - 如果内网连通网段过于多,不建议使用全网段自探测加扫描,耗费时间过长,如家庭网和政务网。
 
@@ -48,9 +48,10 @@ Ports = []int{21, 22, 23, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 98
 ```shell
 将扫描的结果output文件导入java端内
 ```
-<img width="915" alt="image" src="https://user-images.githubusercontent.com/52184829/164612773-a16d57df-e647-48b0-9355-888d1b8009fb.png">
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/52184829/164612911-704a7629-1c09-4aef-9f89-bc9fa117ba23.png">
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/52184829/164612924-26832b7c-efe7-422b-bd90-7a17c3eb404f.png">
+<img width="920" alt="image" src="https://user-images.githubusercontent.com/52184829/173309585-324e4a0e-4ebe-4d95-9f8d-8311cdd7f38f.png">
+<img width="817" alt="image" src="https://user-images.githubusercontent.com/52184829/173309860-592788a9-131a-4cac-95e9-3318479690c4.png">
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/52184829/173309956-af0f4602-214c-411a-93b6-ecd2f2b1e5cf.png">
+
 
 ## 感谢！
 
