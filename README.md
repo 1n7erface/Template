@@ -1,6 +1,6 @@
 <h1 align="center">RequestTemplate</h1>
 
-English | [中文文档](https://github.com/RequestTemplate)
+English | [中文文档](https://github.com/1n7erface/RequestTemplate/blob/main/README_CN.md)
 ## Always believe that code makes a difference, good projects always need to give users time to discover...
 
 ![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.0.6-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
