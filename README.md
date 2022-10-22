@@ -3,7 +3,9 @@
 English | [中文文档](https://github.com/1n7erface/RequestTemplate/blob/main/README_CN.md)
 ## Always believe that code makes a difference, good projects always need to give users time to discover...
 
+![](https://img.shields.io/badge/KCon-%E5%85%B5%E5%99%A8%E8%B0%B1-red)
 ![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.0.6-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
+
 
 # 0x00 Tool introduction
 
