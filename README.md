@@ -4,7 +4,7 @@
 ## 始终相信代码有别，好的项目总是需要给用户时间去发现......
 
 ![](https://img.shields.io/badge/KCon-%E5%85%B5%E5%99%A8%E8%B0%B1-red)
-![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.0.6-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
+![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.1.0-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
 
 
 # 0x00 工具介绍
