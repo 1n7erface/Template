@@ -101,9 +101,6 @@ Ports = []int{21, 22, 23, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 98
 
 # 0x07 Thanks
 
-Thanks to @shadow1ng for answering the questions on the scanning side.
-https://github.com/shadow1ng/fscan
-
 Thanks to @j1anFen's project for the reference to the reproducible end.
 https://github.com/SafeGroceryStore/MDUT
 
