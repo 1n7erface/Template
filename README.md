@@ -1,6 +1,6 @@
 <h1 align="center">RequestTemplate</h1>
 
-中文文档 | [English](https://github.com/1n7erface/RequestTemplate/blob/main/README.md)
+中文文档 | [English](https://github.com/1n7erface/RequestTemplate/blob/main/README_EN.md)
 ## 始终相信代码有别，好的项目总是需要给用户时间去发现......
 
 ![](https://img.shields.io/badge/KCon-%E5%85%B5%E5%99%A8%E8%B0%B1-red)
