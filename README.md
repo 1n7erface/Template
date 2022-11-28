@@ -101,9 +101,6 @@ Ports = []int{21, 22, 23, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 98
 
 # 0x07 感谢
 
-感谢@shadow1ng 对扫描端疑问的解答
-https://github.com/shadow1ng/fscan
-
 感谢@j1anFen 的项目对可复现端的参考
 https://github.com/SafeGroceryStore/MDUT
 
