@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/KCon-%E5%85%B5%E5%99%A8%E8%B0%B1-red)
 ![](https://img.shields.io/badge/ReaTeam-%E6%AD%A6%E5%99%A8%E5%BA%93-red) ![](https://img.shields.io/badge/version-1.1.0-brightgreen) ![](https://img.shields.io/badge/author-1n7erface-blueviolet)
 
-
+### 最近在mac上发现了个bug，使用mac终端运行本扫描器会发生严重的漏报,但是换个终端比如ssh的终端，开发工具终端就可解决。暂不能确定是什么问题导致的，但应该跟本工具无关。
 # 0x00 工具介绍
 
 RequestTemplate是一款两端并用的红队渗透工具以及甲方自查工具，其在内网渗透过程中有着不可替代的作用。客户端使用Golang以其精巧、快速的特点打造而成,快速发现内网中脆弱的一环。复现端使用Java以其生态稳定、跨平台、UI精美的特点打造而成,最小的发包量和平台的集成性验证脆弱的一环。
