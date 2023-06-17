@@ -87,7 +87,11 @@ Usage of ./App-arm64darwin-noupx:
 > 此参数接受一个字符串,指定爆破的用户名字典,例如 -us fwefwf,fwefwf  (注:此参数一经指定则不进行程序自带用户名的扫描)
 - 如果想指定端口、爆破的用户名和密码并且仍然使用程序自带的端口、密码、用户名进行扫描.可以在当前程序的同级目录上传名为"config.json"的文件
 > 内容为:   {"pass":["ffnxjfl123","fgmgergn334"],"user":["fwefwf","fwefwf"],"ports":[9999,8888]}
-## 0x04 写在最后
+## 0x04 使用截图
+<img width="1000" alt="image" src="https://github.com/1n7erface/Template/assets/52184829/e14e0992-2931-4c57-a502-e3d029f41020">
+<img width="1000" alt="image" src="https://github.com/1n7erface/Template/assets/52184829/42b66291-57dc-40fe-9f13-6dc75ed6fb48">
+
+## 0x05 写在最后
 > 对待一个产品或工具,我希望注入自己百分百的心血与付出,我可以一直去重构直到我认为的满意,这大概是一个技术人的执着.
 > 
 > 不有趣,毋宁死.
