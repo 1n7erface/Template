@@ -47,6 +47,8 @@ Usage of ./App-arm64darwin-noupx:
     	skip icmp alive
   -nopoc
     	skip poc
+  -o string
+    	output file name (default "output.txt")
   -onping
     	only ping
   -p string
@@ -74,7 +76,9 @@ Usage of ./App-arm64darwin-noupx:
 - noping参数说明
 > 此参数不接收任何值,在目标网段不支持ICMP协议时,通过TCP进行探测.
 - nopoc参数说明
-> 此参数不接收任何值,不对探测的WEB服务进行漏洞探测的模块。
+> 此参数不接收任何值,不对探测的WEB服务进行漏洞探测的模块.
+- o参数说明
+> 此参数接收一个字符串,用于对结果保存的文件名称,默认为output.txt.
 - onping参数说明
 > 此参数不接收任何值,对目标网段只进行ICMP的ip存活探测,其余一律不做.
 - p参数说明
